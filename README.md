@@ -1,7 +1,7 @@
 # Developer Profile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://your-portfolio-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/toufique-ahmed-264ba55a/))
+
 
 ## About Me
 
@@ -40,4 +40,4 @@ Hi there! I'm a passionate software developer with expertise in .NET, Azure, Vue
 
 Feel free to reach out to me if you have any questions or if you'd like to discuss a potential collaboration. I'm always open to new opportunities and challenges!
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and check out my [portfolio](https://your-portfolio-website.com) for more details about my work.
+Let's connect on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/toufique-ahmed-264ba55a/)) 
